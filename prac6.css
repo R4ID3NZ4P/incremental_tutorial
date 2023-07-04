@@ -36,3 +36,8 @@ button {
     width: 150px;
     align-self: center;
 }
+
+img {
+    height: 100%;
+    width: 100%;
+}
